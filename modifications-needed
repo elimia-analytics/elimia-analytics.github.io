@@ -1,0 +1,11 @@
+#### Modifications needed prior to publication on GitHub
+For all index.html files (including homepage, integration, metrics, visualization, etc.):
+1. Remove all leading backslashes prior to js/ , css/ and images/
+2. Remove integrity section in text/css line
+
+For the primary index.html:
+1. Update all downstream page links to *link*/index.html
+
+For all secondaryry index.html:
+1. Add ../ at the beginning of all file links, to redirect to root folder
+2. Update all page links to ../*link*/index.html

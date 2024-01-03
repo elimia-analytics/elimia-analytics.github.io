@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-fresh</title>
+    <link>/</link>
+    <description>Recent content on hugo-fresh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A standard protocol for reporting species distribution models</title>
+      <link>/publications/odmap_sdm_protocol/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/odmap_sdm_protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Editorial: Ecological Non-equilibrium in the Anthropocene</title>
+      <link>/publications/ecological_nonequilibrium_in_the_anthropocene/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/ecological_nonequilibrium_in_the_anthropocene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microbes and macro-invertebrates show parallel β-diversity but contrasting α-diversity patterns in a marine natural experiment</title>
+      <link>/publications/comparing_microbial_and_macroorganismal_diversity/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/comparing_microbial_and_macroorganismal_diversity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding ecological change across large spatial, temporal and taxonomic scales: integrating data and methods in light of theory</title>
+      <link>/publications/understanding_ecological_change_across_scales/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/understanding_ecological_change_across_scales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Better Model Transfers Require Knowledge of Mechanisms</title>
+      <link>/publications/better_model_transfers/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/better_model_transfers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Dynamic Habitat Indices (DHIs) from MODIS and global biodiversity</title>
+      <link>/publications/dhis_and_biodiversity/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/dhis_and_biodiversity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Species diversity as a surrogate for conservation of phylogenetic and functional diversity in terrestrial vertebrates across the Americas</title>
+      <link>/publications/surrogacy_among_biodiversity_dimensions/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publications/surrogacy_among_biodiversity_dimensions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strengthening the contribution of macroecological models to conservation practice</title>
+      <link>/publications/macroecology_conservation_practice_interface/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publications/macroecology_conservation_practice_interface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outstanding challenges in the transferability of ecological models</title>
+      <link>/publications/outstanding_challenges_in_transferability/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publications/outstanding_challenges_in_transferability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evolutionary time drives global tetrapod diversity</title>
+      <link>/publications/evolutionary_time_and_tetrapod_diversity/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publications/evolutionary_time_and_tetrapod_diversity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Detecting long-term occupancy changes in Californian odonates from natural history and citizen science records</title>
+      <link>/publications/detecting_california_odonata_occupancy_changes/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publications/detecting_california_odonata_occupancy_changes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Are pollinating hawk moths declining in the Northeastern United States? An analysis of collection records</title>
+      <link>/publications/northeast_hawkmoth_changes/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publications/northeast_hawkmoth_changes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The signature of human pressure history on the biogeography of body mass in tetrapods</title>
+      <link>/publications/human_pressure_signature_on_body_mass/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publications/human_pressure_signature_on_body_mass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Museum specimen data reveal emergence of a plant disease may be linked to increases in the insect vector population</title>
+      <link>/publications/museum_records_reveal_pest_vector_emergence/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publications/museum_records_reveal_pest_vector_emergence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Species loss: learn from health metrics</title>
+      <link>/publications/species_loss_health_metrics/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publications/species_loss_health_metrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rescuing and sharing historical vegetation data for ecological analysis: The California Vegetation Type Mapping project</title>
+      <link>/publications/vtm_mapping_project/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publications/vtm_mapping_project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beyond the EDGE with EDAM: prioritising British plant species according to evolutionary distinctiveness, and accuracy and magnitude of decline</title>
+      <link>/publications/edam_conservation_prioritization/</link>
+      <pubDate>Sat, 30 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publications/edam_conservation_prioritization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beyond a warming fingerprint: individualistic biogeographic responses to heterogeneous climate change in California</title>
+      <link>/publications/individualistic_california_range_shifts/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publications/individualistic_california_range_shifts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporal validation plots: quantifying how well correlative species distribution models predict species’ range changes over time</title>
+      <link>/publications/temporal_validation_plots/</link>
+      <pubDate>Fri, 30 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publications/temporal_validation_plots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A phylogenetically-informed trait-based analysis of range change in the vascular plant flora of Britain</title>
+      <link>/publications/trait_correlates_of_british_plant_changes/</link>
+      <pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publications/trait_correlates_of_british_plant_changes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Climatic associations of British species distributions show good transferability in time but low predictive accuracy for range change</title>
+      <link>/publications/climatic_associations_do_not_predict_change/</link>
+      <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publications/climatic_associations_do_not_predict_change/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Population density but not stability can be predicted from species distribution models</title>
+      <link>/publications/population_density_and_sdms/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publications/population_density_and_sdms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AGB</title>
+      <link>/agb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/agb/</guid>
+      <description>§1 Lorem&#xD;Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/first/</guid>
+      <description>My super sweet first blog post!!</description>
+    </item>
+    <item>
+      <title>Integration</title>
+      <link>/integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/integration/</guid>
+      <description>Navigating the multitude of data sources on biodiversity and natural systems can be exceptionally challenging. Not all data sources are equally fit for purpose or easily accessible. What&amp;rsquo;s more, each dataset comes with specific attributes and biases that need to be taken into account for robust inferences. With over 15 years of experience working in biodiversity data science, we are experts in identifying, accessing, querying, processing, and integrating the data on biodiversity and nature most relevant to your application.</description>
+    </item>
+    <item>
+      <title>Metrics</title>
+      <link>/metrics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/metrics/</guid>
+      <description>Identifying which species and ecosystems are found in a location and how they are changing over time is the basic intelligence we need to unlock positive biodiversity outcomes. We leverage our expertise in cutting-edge ecological and evolutionary modeling techniques, AI, geospatial mapping, and time series analysis to derive metrics of biodiversity across scales of space and time.&#xA;What are some of the techniques we use?&#xA;Species distribution modeling Occupancy modeling Machine learning Systematic conservation planning Surrogacy analysis Time series modeling Bayesian hierarchical modeling Community-level modeling Agent-based modeling What are some of the metrics we can readily quantify for an area across years?</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>/blog/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/second/</guid>
+      <description>My awesome blogpost&#xD;My super sweet second blog post</description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>/visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/visualization/</guid>
+      <description>At Elimia, we understand that biodiversity insights are only useful if they are communicated in a compelling way. Failure to appropriately package and convey the outcomes of biodiversity analyses means that insights will not reach their intended audience and will not be put into practice. Our ultimate objective is to open up the biodiversity big data black box and communicate complex concepts and data in concise, transparent, and compelling ways.</description>
+    </item>
+    <item>
+      <title>Who we are</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>Gio Rapacciuolo, Ph. D. (Founder and CEO) gio@elimia.io Dr. Gio Rapacciuolo is the founder and CEO at Elimia. His work involves leveraging cutting-edge approaches in data science to support biodiversity conservation practice and decisions. Dr. Rapacciuolo obtained his PhD in Biodiversity and Global Change from Imperial College London in 2013 and has held various academic positions and non-profit roles since. He has over 15 years of experience in biodiversity data science and ecological modeling and has published over 20 peer-reviewed journal articles in high-impact journals like Nature, Nature Ecology and Evolution, and Trends in Ecology and Evolution.</description>
+    </item>
+  </channel>
+</rss>
